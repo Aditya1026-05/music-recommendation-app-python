@@ -186,3 +186,4 @@ recommend.log
 cosine_sim.pkl
 df_cleaned.pkl
 tfidf_matrix.pkl
+cosine_sim.pkl
